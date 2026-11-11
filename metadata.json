@@ -1,0 +1,6 @@
+{
+  "name": "Rational Rose TypeScript - UML 2.5 Modeling & Code Gen",
+  "description": "Enterprise-grade UML 2.5 visual modeling studio and automated TypeScript code generation suite with round-trip engineering, reverse engineering, and diagramming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
